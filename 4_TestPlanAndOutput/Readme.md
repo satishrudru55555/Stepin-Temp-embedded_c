@@ -14,5 +14,5 @@
 | TID\_10 | LED ON | Button=1 &amp;&amp; Heater=1 | LED=1 | PASS |
 | TID\_11 | LED OFF | Button=0 &amp;&amp; Heater=0 | LED=0 | PASS |
 | TID\_12 | Display | Temperature :
-20 deg Cel | Temperature :
-20 deg Cel | PASS |
+20 deg Cel 
+| Temperature :20 deg Cel | PASS |
